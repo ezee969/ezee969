@@ -9,17 +9,13 @@
 
 - 🌱 I’m currently learning **backend web dev.**
 
-- 📫 How to reach me <a href="https://www.instagram.com/abhishknads/">
+- 📫 How to reach me 
+<a href="https://www.instagram.com/abhishknads/">
   <img align="left" alt="Ezequiel Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/">
   <img align="left" alt="Ezequiel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ezequiel-olivero-4905ba228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/" height="30" width="40" /></a>
-</p>
 
 # 🔧 Technologies & Tools
 
