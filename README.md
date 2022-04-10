@@ -7,11 +7,11 @@
     My name is Ezequiel and I'm a Front end Developer. Right now my mind is focused on learning everything that is related to Web Development and Software Development in general. I am currently studying Software Development at the ITEC institute in Cordoba, Rio Cuarto.
 </div>
 
-- 🌱 I’m currently learning **backend web dev.**
+- 🌱 I’m currently learning **fullstack web dev.**
 
 - 📫 How to reach me:
 
-<br />
+
 
   <a href="https://www.instagram.com/abhishknads/">
     <img align="left" alt="Ezequiel Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
