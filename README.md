@@ -9,15 +9,13 @@
 
 - 🌱 I’m currently learning **fullstack web dev.**
 
-<p>
   📫 Reach me at: 
     <a href="https://www.instagram.com/abhishknads/">
-      <img alt="Ezequiel Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+      <img alt="Ezequiel Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
     </a>
     <a href="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/">
-      <img alt="Ezequiel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"        />
+      <img alt="Ezequiel LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"        />
     </a>
-</p>
 
 <br />
 
