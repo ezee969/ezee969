@@ -1,4 +1,4 @@
- ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <br />
@@ -11,14 +11,18 @@
 
 - 📫 How to reach me:
 
+<br />
+
   <a href="https://www.instagram.com/abhishknads/">
     <img align="left" alt="Ezequiel Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/">
     <img align="left" alt="Ezequiel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
+  
+<br />
 
-########### 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 <table>
   <tr>
