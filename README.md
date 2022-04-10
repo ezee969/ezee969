@@ -8,15 +8,16 @@
 </div>
 
 - 🌱 I’m currently learning **fullstack web dev.**
-- 
-<br />
 
-📫 How to reach me: <a href="https://www.instagram.com/abhishknads/">
-    <img align="left" alt="Ezequiel Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/">
-    <img align="left" alt="Ezequiel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
+<p>
+  📫 How to reach me: 
+    <a href="https://www.instagram.com/abhishknads/">
+      <img align="left" alt="Ezequiel Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+    </a>
+    <a href="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/">
+      <img align="left" alt="Ezequiel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"        />
+    </a>
+</p>
 
 <br />
 
