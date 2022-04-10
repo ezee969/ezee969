@@ -4,6 +4,15 @@
     My name is Ezequiel and I'm a Front end Developer. Right now my mind is focused on learning everything that is related to Web Development and Software Development in general. I am currently studying Software Development at the ITEC institute in Cordoba, Rio Cuarto.
 </div>
 
+- 🌱 I’m currently learning **backend web dev.**
+
+- 📫 How to reach me **ezee969@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ezequiel-olivero-4905ba228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/" height="30" width="40" /></a>
+</p>
+
 # 🔧 Technologies & Tools
 
 <table>
