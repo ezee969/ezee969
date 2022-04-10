@@ -1,4 +1,7 @@
-# 👋 Hey there
+ ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+<br />
 
 <div align="justify">
     My name is Ezequiel and I'm a Front end Developer. Right now my mind is focused on learning everything that is related to Web Development and Software Development in general. I am currently studying Software Development at the ITEC institute in Cordoba, Rio Cuarto.
@@ -6,7 +9,12 @@
 
 - 🌱 I’m currently learning **backend web dev.**
 
-- 📫 How to reach me **ezee969@gmail.com**
+- 📫 How to reach me <a href="https://www.instagram.com/abhishknads/">
+  <img align="left" alt="Ezequiel Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/">
+  <img align="left" alt="Ezequiel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
