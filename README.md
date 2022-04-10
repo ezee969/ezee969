@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **fullstack web dev.**
 
 <p>
-  📫 How to reach me: 
+  📫 Reach me at: 
     <a href="https://www.instagram.com/abhishknads/">
       <img alt="Ezequiel Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
     </a>
