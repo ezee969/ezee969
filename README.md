@@ -7,7 +7,7 @@
     My name is Ezequiel and I'm a Front end Developer. Right now my mind is focused on learning everything that is related to Web Development and Software Development in general. I am currently studying Software Development at the ITEC institute in Cordoba, Rio Cuarto.
 </div>
 
-- 🌱 I’m currently learning **fullstack web dev.**
+- 🌱 I’m currently learning **fullstack web development.**
 
 - 📫 Reach me at: 
         <a href="https://www.instagram.com/eze_olivero/">
