@@ -59,7 +59,6 @@
       />
       <br /><strong>React</strong>
     </td>
-      <br /><strong>Bootstrap</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
