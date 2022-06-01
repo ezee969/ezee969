@@ -1,4 +1,4 @@
- ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="auto" width="10px">
+ ## 👋 Hey there
 
 
 <br />
