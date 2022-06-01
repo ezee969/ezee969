@@ -107,6 +107,15 @@
       />
       <br /><strong>Jest</strong>
     </td>
+ <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+        width="48"
+        height="48"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
   </tr>
 </table>
 
