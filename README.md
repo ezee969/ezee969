@@ -4,7 +4,7 @@
 <br />
 
 <div align="justify">
-    My name is Ezequiel and I'm a Front end Developer. Right now my mind is focused on learning everything that is related to Web Development and Software Development in general. I am currently studying Software Development at the ITEC institute in Cordoba, Rio Cuarto.
+    My name is Ezequiel and I'm a Full stack Developer from Argentina. Right now my mind is focused on learning everything that is related to Web Development and Software Development in general. I am currently in my second year of studying Software Development at the ITEC institute in Cordoba, Rio Cuarto.
 </div>
 
 - 🌱 I’m currently learning **fullstack web development.**
