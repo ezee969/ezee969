@@ -161,6 +161,15 @@
       />
       <br /><strong>Azure Dev</strong>
     </td>
+ <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
   </tr>
 </table>
 
