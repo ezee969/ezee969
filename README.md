@@ -16,6 +16,9 @@
     <a href="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/">
       <img alt="Ezequiel LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"        />
     </a>
+      <a href="https://torre.co/ezeolivero96?r=Xi4KDQWQ">
+      <img alt="Ezequiel Torre" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Torre.co%27s_logotype.png" />
+       </a>
 
 <br />
 
