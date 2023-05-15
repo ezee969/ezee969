@@ -180,7 +180,7 @@
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://www.cypress.io/images/layouts/navbar-brand.svg"
+        src="https://www.svgrepo.com/show/353630/cypress.svg"
         width="48"
         height="48"
         alt="Cypress"
