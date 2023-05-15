@@ -143,7 +143,7 @@
       />
       <br /><strong>Material UI</strong>
     </td>
-  <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
         width="48"
@@ -151,6 +151,15 @@
         alt="Typescript"
       />
       <br /><strong>Typescript</strong>
+    </td>
+  <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"
+        width="48"
+        height="48"
+        alt="Azure Dev"
+      />
+      <br /><strong>Azure Dev</strong>
     </td>
   </tr>
 </table>
