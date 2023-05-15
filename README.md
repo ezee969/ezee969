@@ -134,6 +134,15 @@
       />
       <br /><strong>Redux Toolkit</strong>
     </td>
+ <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg](https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
   </tr>
 </table>
 
