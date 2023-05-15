@@ -4,7 +4,7 @@
 <br />
 
 <div align="justify">
-    My name is Ezequiel and I'm a Full stack Developer from Argentina. Right now my mind is focused on learning everything that is related to Web Development and Software Development in general. I am currently in my third year of studying Software Development at the ITEC institute in Cordoba, Rio Cuarto.
+   Hello, I'm Ezequiel Olivero, a dedicated and disciplined software developer based in Rio Cuarto, Cordoba, Argentina. I am currently 27 years old and pursuing my studies to become a qualified Software Developer. Presently, I work as a Frontend Developer at Grupo Francia, where I specialize in designing and implementing front-end architectures for diverse web applications. I write clean and scalable code using JavaScript, TypeScript, Python, HTML, CSS, and frameworks like React, Redux Toolkit, and Material UI. Additionally, I have experience with AWS Cognito, Google Identity Service, and version control systems like Git. With a pragmatic mindset and a willingness to embrace challenges, my goal is to continuously grow as a developer while delivering high-quality solutions. Fluent in Spanish and English (C2 Certificate), I am eager to contribute to innovative projects and collaborate with talented teams.
 </div>
 
 - 🌱 I’m currently learning **fullstack web development.**
