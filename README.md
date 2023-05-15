@@ -141,7 +141,7 @@
         height="48"
         alt="Material UI"
       />
-      <br /><strong>Material UI/strong>
+      <br /><strong>Material UI</strong>
     </td>
   </tr>
 </table>
