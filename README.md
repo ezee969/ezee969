@@ -13,11 +13,14 @@
         <a href="https://www.instagram.com/eze_olivero/">
       <img alt="Ezequiel Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
        </a>
-    <a href="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/">
+     <a href="https://www.linkedin.com/in/ezequiel-olivero-4905ba228/">
       <img alt="Ezequiel LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"        />
     </a>
       <a href="https://torre.co/ezeolivero96?r=Xi4KDQWQ">
       <img alt="Ezequiel Torre" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Torre.co%27s_logotype.png" />
+       </a>
+        <a href="https://www.facebook.com/eze.olivero/">
+      <img alt="Ezequiel Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" />
        </a>
 
 <br />
