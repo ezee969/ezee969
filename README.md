@@ -134,7 +134,7 @@
       />
       <br /><strong>Redux Toolkit</strong>
     </td>
- <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
         width="48"
@@ -142,6 +142,15 @@
         alt="Material UI"
       />
       <br /><strong>Material UI</strong>
+    </td>
+  <td align="center" height="108" width="108">
+      <img
+        src="https://es.wikipedia.org/wiki/TypeScript#/media/Archivo:Typescript_logo_2020.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Typescript</strong>
     </td>
   </tr>
 </table>
