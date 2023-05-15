@@ -177,5 +177,16 @@
       <br /><strong>Python</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.cypress.io/images/layouts/navbar-brand.svg"
+        width="48"
+        height="48"
+        alt="Cypress"
+      />
+      <br /><strong>Cypress</strong>
+    </td>
+    </tr>
 </table>
 
