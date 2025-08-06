@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-**Semi-Senior Full Stack Developer** with **2+ years of experience** creating modern and scalable web solutions. 
+**Semi-Senior Full Stack Developer** with **3+ years of experience** creating modern and scalable web solutions. 
 
 Currently at **Trii Software**, where I develop high-performance frontend/backend architectures and lead the implementation of **micro frontends** for large-scale projects.
 
