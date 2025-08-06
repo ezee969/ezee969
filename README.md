@@ -101,9 +101,9 @@ Currently at **Trii Software**, where I develop high-performance frontend/backen
 
 <div align="center">
   
-  ![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3)
+  ![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezee969-github&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezee969-github&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3)
   
 </div>
 
