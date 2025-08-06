@@ -1,4 +1,4 @@
-# 🚀 ¡Hola! Soy Ezequiel Olivero
+# 🚀 Hey there! I'm Ezequiel Olivero
 
 <div align="center">
   
@@ -8,21 +8,21 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-**Semi-Senior Full Stack Developer** con más de **2 años de experiencia** creando soluciones web modernas y escalables. 
+**Semi-Senior Full Stack Developer** with **2+ years of experience** creating modern and scalable web solutions. 
 
-Actualmente en **Trii Software**, donde desarrollo arquitecturas frontend/backend de alto rendimiento y lidero la implementación de **micro frontends** para proyectos de gran escala.
+Currently at **Trii Software**, where I develop high-performance frontend/backend architectures and lead the implementation of **micro frontends** for large-scale projects.
 
-- 🎯 **Enfoque**: Código limpio, escalable y mantenible
-- 🌍 **Ubicación**: Río Cuarto, Córdoba, Argentina
-- 🎓 **Formación**: Técnico Superior en Desarrollo de Software (ITEC)
-- 🌱 **Aprendizaje continuo**: Siempre explorando nuevas tecnologías
-- 💬 **Idiomas**: Español (nativo) | English (C2 Proficient)
+- 🎯 **Focus**: Clean, scalable, and maintainable code
+- 🌍 **Location**: Río Cuarto, Córdoba, Argentina
+- 🎓 **Education**: Technical Degree in Software Development (ITEC)
+- 🌱 **Continuous learning**: Always exploring new technologies
+- 💬 **Languages**: Spanish (native) | English (C2 Proficient)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Actualmente en **Trii Software**, donde desarrollo arquitecturas frontend/backen
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Herramientas & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -57,36 +57,36 @@ Actualmente en **Trii Software**, donde desarrollo arquitecturas frontend/backen
 
 ---
 
-## 💼 Experiencia Destacada
+## 💼 Professional Experience
 
-### 🏢 **Full Stack Developer** - Trii Software *(Jul 2022 - Actualidad)*
+### 🏢 **Full Stack Developer** - Trii Software *(Jul 2022 - Present)*
 
-#### 🎯 Logros principales:
-- ⚡ **Arquitectura moderna**: Desarrollo de aplicaciones client/server de alto rendimiento
-- 🧩 **Micro Frontends**: Investigación e implementación para proyectos de gran escala
-- 🔐 **Sistemas de autenticación**: Diseño con AWS Cognito
-- 🌐 **APIs robustas**: Construcción con Express.js y MongoDB
-- 🚀 **Tecnologías avanzadas**: WebRTC, WebSockets, Webhooks
+#### 🎯 Key Achievements:
+- ⚡ **Modern Architecture**: Developed high-performance client/server applications
+- 🧩 **Micro Frontends**: Research and implementation for large-scale projects
+- 🔐 **Authentication Systems**: Design using AWS Cognito
+- 🌐 **Robust APIs**: Built with Express.js and MongoDB
+- 🚀 **Advanced Technologies**: WebRTC, WebSockets, Webhooks implementation
 
-#### 💡 Tecnologías utilizadas:
+#### 💡 Technologies Used:
 `JavaScript` `TypeScript` `React` `Redux Toolkit` `Node.js` `Express` `Material UI` `AWS` `MongoDB`
 
 ---
 
-## 🎓 Formación & Certificaciones
+## 🎓 Education & Certifications
 
 <table>
 <tr>
 <td width="50%">
 
-**🎓 Educación Formal**
-- **Técnico Superior en Desarrollo de Software**  
+**🎓 Formal Education**
+- **Technical Degree in Software Development**  
   *ITEC (2021-2023)*
 
 </td>
 <td width="50%">
 
-**📚 Cursos Especializados**
+**📚 Specialized Courses**
 - **Full Stack Web Development** - *University of Helsinki*
 - **JavaScript Algorithms & Data Structures** - *FreeCodeCamp*
 - **Full Stack Development** - *The Odin Project*
@@ -109,7 +109,7 @@ Actualmente en **Trii Software**, donde desarrollo arquitecturas frontend/backen
 
 ---
 
-## 🤝 ¡Conectemos!
+## 🤝 Let's Connect!
 
 <div align="center">
 
@@ -123,6 +123,14 @@ Actualmente en **Trii Software**, donde desarrollo arquitecturas frontend/backen
 </div>
 
 ---
+
+<div align="center">
+  
+  ### 💡 *"Always open to new challenges and growth opportunities"*
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario-github&color=2196F3&style=flat-square&label=Profile+Views)
+  
+</div>
 
 <div align="center">
   
