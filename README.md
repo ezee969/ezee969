@@ -132,10 +132,3 @@ Currently at **Trii Software**, where I develop high-performance frontend/backen
   
 </div>
 
-<div align="center">
-  
-  ### 💡 *"Siempre abierto a nuevos desafíos y oportunidades de crecimiento"*
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario-github&color=2196F3&style=flat-square&label=Profile+Views)
-  
-</div>
