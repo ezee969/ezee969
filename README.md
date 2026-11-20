@@ -1,134 +1,66 @@
-# 🚀 Hey there! I'm Ezequiel Olivero
+<!-- Generated from the personal-portfolio repo (profile.json + CV data) by `npm run readme`. Do not edit by hand: changes here are overwritten. -->
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Specialist;Continuous+Learner;Problem+Solver)
-  
-</div>
+# Ezequiel Olivero
 
----
+**Frontend-focused Full Stack Developer** · React · TypeScript · Node.js
 
-## 👨‍💻 About Me
+📍 Argentina (UTC−3) · Open to remote roles worldwide · Relocating to Norway
 
-**Semi-Senior Full Stack Developer** with **3+ years of experience** creating modern and scalable web solutions. 
+[Portfolio](https://ezequielolivero.dev) · [Résumé (PDF)](https://ezequielolivero.dev/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/ezequiel-olivero/) · [Email](mailto:eze.olivero96@gmail.com)
 
-Currently at **Trii Software**, where I develop high-performance frontend/backend architectures and lead the implementation of **micro frontends** for large-scale projects.
+## About
 
-- 🎯 **Focus**: Clean, scalable, and maintainable code
-- 🌍 **Location**: Río Cuarto, Córdoba, Argentina
-- 🎓 **Education**: Technical Degree in Software Development (ITEC)
-- 🌱 **Continuous learning**: Always exploring new technologies
-- 💬 **Languages**: Spanish (native) | English (C2 Proficient)
+I took an enterprise SaaS frontend from a single codebase to a Single-SPA microfrontend platform: proposed it, migrated ~10 modules and mentored the team through the switch. Over 4+ years at Trii Software I also built most of its real-time omnichannel chat and its shared component library. I am looking for a product team where frontend architecture, performance and developer experience are treated as part of the product.
 
----
+## Tech stack
 
-## 🛠️ Tech Stack
+| Area | Tools |
+| --- | --- |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, Material UI, TanStack Query, Redux Toolkit, Zustand |
+| **Architecture** | Microfrontends (Single-SPA), component libraries, Storybook |
+| **Performance** | IndexedDB, Web Workers, list virtualization, cache-first loading |
+| **Real-time** | WebSockets, WebRTC, webhooks |
+| **Backend & Cloud** | Node.js, NestJS, Express, REST APIs, PostgreSQL, Prisma, MongoDB, AWS Cognito |
+| **Testing & Tooling** | Jest, Vitest, Playwright, GitHub Actions, Git, Azure DevOps |
 
-<div align="center">
+## Experience
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
+### Full Stack Developer (Frontend-focused) · Trii Software
 
-### Styling & UI
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+*Jul 2022 – Oct 2026 · Remote* — Enterprise omnichannel SaaS for chat, ticketing and business operations.
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- **Architecture:** Researched and introduced a Single-SPA microfrontend architecture, migrated ~10 modules to it and mentored two teammates on adoption.
+- **Omnichannel chat:** Built ~90% of a chat feature spanning WhatsApp, Facebook and Instagram, then refactored it into a decoupled architecture.
+- **Shared modules & APIs:** Built a shared chat module with Single-SPA parcels and built/consumed APIs with Express.js and MongoDB, removing duplicated implementations across microfrontends.
+- **Performance:** Cut load time of the data-heavy chat view from ~4–5 s to under 1 s with cache-first loading (IndexedDB + Web Workers) and list virtualization.
+- **Design system:** Proposed and built an internal React component library distributed through Storybook and npm, reducing UI duplication across modules.
+- **Real-time:** Implemented webhooks, WebSockets and WebRTC for chat, notifications and live data updates.
+- **Authentication:** Designed the authentication system on AWS Cognito.
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+## Featured project
 
-</div>
+### [Sunnsteel](https://sunnsteel-frontend.vercel.app/) · Social training platform, built and deployed end to end
 
----
+Training log with progress analytics and a social layer (follows, feed), private by default.
 
-## 💼 Professional Experience
+- **Stack:** Next.js frontend, NestJS + PostgreSQL API and shared types on npm; installable PWA with Web Push, English and Spanish. Verifying Supabase JWTs locally cut auth overhead per API call from ~275 ms to ~8 ms (p50).
+- **Quality:** 569 frontend and 403 API tests, Playwright regression sweep at 7 screen widths, GitHub Actions CI, deployed on Vercel and Railway.
 
-### 🏢 **Full Stack Developer** - Trii Software *(Jul 2022 - Present)*
+## Education
 
-#### 🎯 Key Achievements:
-- ⚡ **Modern Architecture**: Developed high-performance client/server applications
-- 🧩 **Micro Frontends**: Research and implementation for large-scale projects
-- 🔐 **Authentication Systems**: Design using AWS Cognito
-- 🌐 **Robust APIs**: Built with Express.js and MongoDB
-- 🚀 **Advanced Technologies**: WebRTC, WebSockets, Webhooks implementation
+- **Technical Degree in Software Development** · ITEC (2021 – 2024)
 
-#### 💡 Technologies Used:
-`JavaScript` `TypeScript` `React` `Redux Toolkit` `Node.js` `Express` `Material UI` `AWS` `MongoDB`
+**Courses**
 
----
+- Full Stack Web Development · University of Helsinki
+- JavaScript Algorithms & Data Structures · freeCodeCamp
+- Full Stack Development · The Odin Project
 
-## 🎓 Education & Certifications
+## Languages
 
-<table>
-<tr>
-<td width="50%">
+Spanish Native · English C2 · Norwegian A1 (learning)
 
-**🎓 Formal Education**
-- **Technical Degree in Software Development**  
-  *ITEC (2021-2023)*
+## GitHub stats
 
-</td>
-<td width="50%">
-
-**📚 Specialized Courses**
-- **Full Stack Web Development** - *University of Helsinki*
-- **JavaScript Algorithms & Data Structures** - *FreeCodeCamp*
-- **Full Stack Development** - *The Odin Project*
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezee969&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezee969&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2196F3)
-  
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-olivero-4905ba228/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eze.olivero96@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eze_olivero/)
-[![Torre](https://img.shields.io/badge/Torre-000000?style=for-the-badge&logo=torre&logoColor=white)](https://torre.co/ezeolivero96?r=Xi4KDQWQ)
-
-**📧 eze.olivero96@gmail.com** | **📱 +54 358 402 2664**
-
-</div>
-
----
-
-<div align="center">
-  
-  ### 💡 *"Always open to new challenges and growth opportunities"*
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario-github&color=2196F3&style=flat-square&label=Profile+Views)
-  
-</div>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezee969&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezee969&layout=compact&theme=default&hide_border=true)
