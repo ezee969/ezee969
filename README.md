@@ -2,7 +2,7 @@
 
 # Ezequiel Olivero
 
-**Full Stack AI Engineer** · TypeScript · React · Node.js · Claude API
+**Full Stack Engineer · AI-first** · React · TypeScript · Node.js · Claude Code
 
 📍 Argentina (UTC−3) · Open to remote roles worldwide · Relocating to Norway
 
@@ -10,37 +10,35 @@
 
 ## About
 
-Full stack engineer who ships LLM features end to end. On Sunnsteel, my training platform in production, I built two Claude-powered features with structured outputs, grounded answers, evals on every pull request and per-member cost limits. Before that, 4+ years at Trii Software: I moved an enterprise SaaS frontend to Single-SPA microfrontends (~10 modules) and built most of its real-time omnichannel chat.
+Full stack engineer with 4+ years building Trii, an omnichannel communications SaaS handling 900k+ communications a month. I researched and introduced its Single-SPA microfrontend architecture, built most of its unified chat, and in 2026 owned the Chat microfrontend end to end, working AI-first with Claude Code. Years of writing production code by hand are what let me direct and review agents with judgment. I favour breadth: Sunnsteel, my own product, is where I combine what I know and test new tools.
 
 ## Tech stack
 
 | Area | Tools |
 | --- | --- |
-| **AI engineering** | Claude API, structured outputs, validation and repair, grounding, evals, prompt-injection tests, cost control |
-| **Agentic workflow** | Claude Code, Codex, CLAUDE.md / AGENTS.md project specs, agent-driven work with human review |
+| **Architecture** | Microfrontends (Single-SPA), component libraries, Storybook, frontend guidelines, IndexedDB, Web Workers |
+| **AI-first** | Claude Code, Codex, CLAUDE.md / AGENTS.md specs, agent work with human review; Claude API, structured outputs, evals |
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Material UI, TanStack Query, Redux Toolkit, Zustand |
-| **Architecture** | Microfrontends (Single-SPA), component libraries, Storybook, IndexedDB, Web Workers |
-| **Backend** | Node.js, NestJS, Express, PostgreSQL, Prisma, MongoDB, AWS Cognito, WebSockets, WebRTC |
+| **Backend** | Node.js, NestJS, Express, PostgreSQL, Prisma, MongoDB, AWS Cognito, WebSockets, WebRTC, SIP |
 | **Testing & Tooling** | Jest, Vitest, Playwright, GitHub Actions, Git, Azure DevOps |
 
 ## Experience
 
 ### Full Stack Developer (Frontend-focused) · Trii Software
 
-*Jul 2022 – Oct 2026 · Remote* — Enterprise omnichannel SaaS for chat, ticketing and business operations.
+*Jul 2022 – Oct 2026 · Remote* — Omnichannel communications SaaS (chat, tickets, calls, contacts, campaigns) handling 900k+ communications a month.
 
-- **Architecture:** Researched and introduced a Single-SPA microfrontend architecture, migrated ~10 modules to it and mentored two teammates on adoption.
-- **Omnichannel chat:** Built ~90% of a real-time chat spanning WhatsApp, Facebook and Instagram (WebSockets, WebRTC, webhooks), then refactored it into a decoupled architecture.
+- **Unified chat:** Built ~90% of the unified inbox (WhatsApp, Messenger, Instagram, email, SMS, webchat) and brought Instagram, Facebook and Mercado Libre posts into it, in real time over WebSockets and webhooks.
+- **AI-first ownership:** From January 2026, owned the Chat microfrontend end to end, building with Claude Code; built the auto-reply flow screens and wired them to the backend AI step that answers customers in production.
+- **Architecture:** Researched and introduced Single-SPA microfrontends, migrated ~10 modules and mentored two teammates; co-authored the team's frontend guide (structure, conventions).
 - **Performance:** Cut load time of the data-heavy chat view from ~4–5 s to under 1 s with cache-first loading (IndexedDB + Web Workers) and list virtualization.
-- **Shared code & APIs:** Built a shared chat module (Single-SPA parcels), an internal React component library (Storybook, npm) and Express/MongoDB APIs; designed auth on AWS Cognito.
+- **Across modules:** Internal team chat, SIP softphone (WebRTC) and contacts; a shared chat module (Single-SPA parcels), a React component library (Storybook, npm) and Cognito auth.
 
 ## Featured project
 
-### [Sunnsteel](https://sunnsteel-frontend.vercel.app/) · Training platform with paid AI features, built end to end
+### [Sunnsteel](https://sunnsteel-frontend.vercel.app/) · My own product and stack lab, built end to end
 
-- **LLM features:** Claude-powered routine drafts and training reviews with structured outputs (JSON Schema), domain checks plus one automatic repair call, and server-side fallback when the model declines.
-- **Grounding & evals:** Reviews cite only numbered facts computed from the member's own workouts. 15 recorded eval cases, including prompt injection, run on every pull request, plus live runs.
-- **Cost control:** Per-model token pricing, a usage ledger, monthly quotas per plan and a global cost ceiling.
+- **AI features:** Claude-powered routine drafts and training reviews in production: structured outputs, an automatic repair call, answers grounded in computed facts, 15 eval cases on every pull request and per-member cost limits.
 - **Stack & quality:** Next.js, NestJS + PostgreSQL, English and Spanish PWA. 569 frontend and 403 API tests, CI on GitHub Actions, Vercel and Railway.
 
 ## Education
