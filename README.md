@@ -39,7 +39,7 @@ Full stack engineer with 4+ years building Trii, an omnichannel communications S
 ### [Sunnsteel](https://sunnsteel-frontend.vercel.app/) · My own product and stack lab, built end to end
 
 - **AI features:** Claude-powered routine drafts and training reviews in production: structured outputs, an automatic repair call, answers grounded in computed facts, 15 eval cases on every pull request and per-member cost limits.
-- **Stack & quality:** Next.js, NestJS + PostgreSQL, English and Spanish PWA. 569 frontend and 403 API tests, CI on GitHub Actions, Vercel and Railway.
+- **Stack & quality:** Next.js, NestJS + PostgreSQL, English and Spanish PWA. 1,324 frontend and 1,049 API tests, CI on GitHub Actions, Vercel and Railway.
 
 ## Education
 
